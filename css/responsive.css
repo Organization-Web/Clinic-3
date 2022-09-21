@@ -1,0 +1,814 @@
+/*
+ * Title:   Better Medical - Medical Clinic & Healthy - HTML Template
+ * Author:  QTC Media
+ */
+@media (max-width: 1219px) {
+  .coming-soon .content {
+    width: 70%; }
+
+  .coming-soon {
+    background: #17c0c3;
+    background: -webkit-linear-gradient(left, #17c0c3, #59e3bf);
+    background: -o-linear-gradient(right, #17c0c3, #59e3bf);
+    background: -moz-linear-gradient(right, #17c0c3, #59e3bf);
+    background: linear-gradient(to right, #17c0c3, #59e3bf); }
+
+  .client-say-v2 {
+    padding: 50px 0 0 0; }
+
+  .contact, .contact-v2 {
+    padding: 80px 0; }
+
+  .contact .contact-map {
+    padding-left: 30px; }
+
+  .contact .contact-form, .contact-v2 .contact-form {
+    margin-right: 0; }
+
+  .better-box-product .product-info p {
+    font-size: 20px; }
+
+  .better-box-product .box-img:hover .box-overlay .btn.btn-view-detail {
+    right: auto;
+    bottom: 35%; }
+
+  .better-box-product .box-img:hover .box-overlay .btn.btn-add-card {
+    left: 50%;
+    top: 35%; }
+
+  .better-box-product .box-img .box-overlay .btn.btn-view-detail {
+    right: auto;
+    top: auto;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%); }
+
+  .better-box-product .box-img .box-overlay .btn.btn-add-card {
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%); }
+
+  .help-center-detail p {
+    padding: 0 5% 13px 5%; }
+
+  .gallery .box-hv-dir.text-small .box-overlay a {
+    padding: 0 10px; }
+
+  .gallery .box-hv-dir.text-small .box-overlay h3 {
+    padding-top: 5px; }
+
+  .client-say-v2 .better-title-v3 p {
+    padding: 0 15%; }
+
+  .medical-departments-v3 .set-padding-left {
+    padding-left: 0; }
+
+  .header-v3 .header .top-bar li:before {
+    left: 25px; }
+
+  .our-doctor-v2 .switcher-menu li {
+    margin-right: 21px; }
+    .our-doctor-v2 .switcher-menu li a {
+      width: 100px;
+      height: 100px; }
+
+  .header-v2 .header .main-menu,
+  .header-v3 .header .main-menu,
+  .header-v5 .header .main-menu {
+    padding: 0 15px; }
+
+  .header-v2 .header .top-bar,
+  .header-v3 .header .top-bar,
+  .header-v5 .header .top-bar {
+    padding: 35px 15px; }
+
+  .our-partner .uk-slidenav-next {
+    right: -15px; }
+
+  .our-partner .uk-slidenav-previous {
+    left: -15px; }
+
+  .client-say li .box p {
+    padding: 0 10% 25px 10%; }
+
+  .better-awards .box-content p {
+    padding: 0 12%; }
+
+  .services .box {
+    padding: 30px 15px; }
+    .services .box .box-text {
+      margin-left: 65px; } }
+@media (max-width: 991px) {
+  .coming-soon .content {
+    width: 100%;
+    text-align: center; }
+
+  .book-form .box-content {
+    text-align: center; }
+    .book-form .box-content p {
+      padding-bottom: 50px; }
+    .book-form .box-content .better-button {
+      justify-content: center; }
+
+  .better-set-pd-large {
+    padding: 50px 0; }
+
+  .services .box:before {
+    margin-bottom: 0;
+    bottom: 0; }
+  .services .box .box-icon .flaticon:before {
+    color: #ffffff; }
+  .services .box .box-text h3, .services .box .box-text p {
+    color: #ffffff; }
+
+  .contact, .contact-v2 {
+    padding: 50px 0; }
+
+  .book-form .better-form {
+    margin-right: 0; }
+
+  .better-sidebar, .better-sidebar-v2 {
+    margin-top: 50px; }
+
+  .departments .rsp-width-1-1,
+  .departments-detail .rsp-width-1-1,
+  .help-center .rsp-width-1-1,
+  .shop .rsp-width-1-1,
+  .shop-detail .rsp-width-1-1,
+  .blog-page .rsp-width-1-1,
+  .blog-list-page .rsp-width-1-1,
+  .blog-detail .rsp-width-1-1,
+  .book-form .rsp-width-1-1 {
+    width: 100%;
+    position: static; }
+
+  .better-pagination li {
+    margin-bottom: 10px; }
+
+  .gallery .box-hv-dir .box-overlay h3 {
+    padding-top: 5px; }
+
+  .header-v5 .mobile-menu {
+    box-shadow: 0 8px 13px rgba(0, 0, 0, 0.25); }
+
+  .header-v5 .header {
+    position: relative; }
+
+  .times li .box .box-text {
+    margin-left: 0;
+    text-align: center; }
+
+  .times li .box .box-icon {
+    float: none; }
+
+  .client-say-v2 .better-title-v3 p {
+    padding: 0 10%; }
+
+  .medical-departments-v3 .set-padding-left {
+    margin-top: 30px; }
+
+  .call-action .better-button {
+    float: none;
+    justify-content: center;
+    padding: 30px 0 0 0; }
+
+  .call-action .box-title, .call-action-v2 .box-title {
+    float: none; }
+
+  .call-action {
+    text-align: center; }
+
+  .uk-sticky-placeholder {
+    margin: 0 !important; }
+
+  .footer .copyright {
+    margin-top: 15px; }
+
+  .our-doctor-v2 .switcher-content {
+    margin-top: 30px; }
+
+  .our-doctor-v2 .rsp-width-1-1 {
+    width: 100%; }
+
+  .medical-departments-v2 .switcher-menu, .medical-departments-v3 .switcher-menu {
+    display: block; }
+
+  .medical-departments-v3 .switcher-content {
+    margin: 0; }
+
+  .medical-departments-v2 .switcher-content {
+    margin: 0 0 30px 0; }
+
+  .medical-departments-v2 .rsp-width-1-1,
+  .medical-departments-v3 .rsp-width-1-1 {
+    width: 100%; }
+
+  .services-v2 .box-appointment {
+    margin-top: 30px; }
+
+  .services-v2 .rsp-width-1-1 {
+    width: 100%; }
+
+  .header-v2, .header-v3 {
+    margin: 0;
+    position: static;
+    background: #ffffff;
+    box-shadow: 0 0 13px rgba(0, 0, 0, 0.25); }
+    .header-v2 .header, .header-v3 .header {
+      box-shadow: none !important; }
+
+  .header-v5 .header .main-menu {
+    background: transparent; }
+
+  .header-v2 .header .main-menu,
+  .header-v3 .header .main-menu {
+    background: transparent;
+    padding: 0; }
+
+  .header-v2 .header .main-menu .search,
+  .header-v3 .header .main-menu .search,
+  .header-v5 .header .main-menu .search {
+    padding-right: 45px; }
+    .header-v2 .header .main-menu .search:before,
+    .header-v3 .header .main-menu .search:before,
+    .header-v5 .header .main-menu .search:before {
+      content: '';
+      width: 1px;
+      height: 15px;
+      background: #585858;
+      position: absolute;
+      right: 30px;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -moz-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      -o-transform: translateY(-50%);
+      transform: translateY(-50%); }
+    .header-v2 .header .main-menu .search a,
+    .header-v3 .header .main-menu .search a,
+    .header-v5 .header .main-menu .search a {
+      line-height: 70px;
+      color: #585858; }
+      .header-v2 .header .main-menu .search a:hover,
+      .header-v3 .header .main-menu .search a:hover,
+      .header-v5 .header .main-menu .search a:hover {
+        color: #17c0c3; }
+
+  .footer .box {
+    margin-bottom: 50px; }
+
+  .footer .rsp-width-1-2 {
+    width: 50%; }
+
+  .our-partner .better-title {
+    padding-bottom: 30px; }
+
+  .our-partner .rsp-width-1-1 {
+    width: 100%; }
+
+  .our-partner {
+    text-align: center; }
+
+  .our-doctor .box-question {
+    margin-top: 50px; }
+
+  .our-doctor .rsp-width-1-1 {
+    width: 100%; }
+
+  .client-say li .box p {
+    padding: 0 5% 25px 5%; }
+
+  .better-awards.better-set-pd {
+    padding-top: 50px; }
+
+  .book-an-appointment .rsp-width-1-1 {
+    width: 100%;
+    margin: 0 auto; }
+
+  .book-an-appointment .box {
+    margin: 0; }
+
+  .book-an-appointment .rsp-hidden-mobi {
+    display: none; }
+
+  .book-an-appointment {
+    padding: 50px 0; }
+
+  .about-the-best.better-set-pd {
+    padding-top: 50px; }
+
+  .services {
+    background: #f9f9f9; }
+
+  .slider-v1 .banner-caption-p,
+  .slider-v2 .banner-caption-p {
+    text-align: center; }
+
+  .header-v1 .header .top-bar,
+  .header-v2 .header .top-bar,
+  .header-v3 .header .top-bar,
+  .header-v5 .header .top-bar {
+    display: none; }
+
+  .better-set-pd, .better-set-pd-small {
+    padding: 50px 0; } }
+@media (max-width: 767px) {
+  .coming-soon .content {
+    padding: 50px 15px; }
+
+  .coming-soon .content .count-down li {
+    padding: 15px 0;
+    display: block; }
+    .coming-soon .content .count-down li:before {
+      display: none; }
+
+  .book-form .box-content h3 {
+    font-size: 30px;
+    line-height: 36px; }
+
+  .services-v2 .box-appointment {
+    margin-top: 0; }
+
+  .medical-professionals .box .box-content p {
+    padding-right: 0; }
+
+  .better-title-v2 {
+    margin-bottom: 30px; }
+
+  .medical-departments .better-title,
+  .medical-departments-v2 .better-title,
+  .medical-departments-v3 .better-title,
+  .better-awards .better-title,
+  .client-say .better-title,
+  .our-doctor .better-title,
+  .medical-departments-v3 .better-title-v3,
+  .latest-news .better-title-v3,
+  .better-title,
+  .help-center .faq h3 {
+    padding-bottom: 30px; }
+
+  .page-not-found p {
+    font-size: 20px;
+    padding-bottom: 35px; }
+
+  .page-not-found h3 {
+    font-size: 30px;
+    line-height: 30px; }
+
+  .page-not-found h1 {
+    font-size: 80px; }
+
+  .contact .contact-map, .contact-v2 .contact-form {
+    padding-left: 0;
+    padding-top: 50px;
+    border-left: none; }
+
+  .we-are-the-better .box {
+    margin-bottom: 50px; }
+    .we-are-the-better .box p {
+      padding-right: 0; }
+
+  .blog-detail .blog-box .tags-share .tags,
+  .blog-detail .blog-box .tags-share .share {
+    float: none; }
+
+  .shop-detail .box-detail .box-detail-content {
+    float: none;
+    width: auto;
+    padding-left: 0;
+    padding-top: 30px; }
+
+  .shop-detail .box-detail .product-img {
+    float: none;
+    width: auto; }
+
+  .help-center-detail p {
+    padding: 0 0 13px 0; }
+
+  .help-center .faq .better-box-img-hv-shin {
+    margin-top: 30px; }
+
+  .help-center .faq {
+    margin-bottom: 50px; }
+
+  .chief-better-medical .doctor-content, .chief-better-medical-v2 .doctor-content {
+    margin-left: 0;
+    margin-top: 30px; }
+
+  .chief-better-medical .better-box-img-hv-shin,
+  .chief-better-medical-v2 .box-profile {
+    float: none;
+    display: inline-block; }
+
+  .departments-detail .departments-detail-box .box-detail .rsp-set-pd {
+    padding-bottom: 30px; }
+
+  .header-v5 .header {
+    margin-bottom: 50px; }
+
+  .latest-news {
+    padding: 50px 0; }
+
+  .client-say-v2 .box .box-clients {
+    width: auto;
+    padding: 0 35px 0 105px; }
+
+  .client-say-v2 .better-title-v3 p {
+    padding: 0; }
+
+  .client-say-v2 {
+    padding: 50px 0 0 0; }
+
+  .medical-departments-v3 {
+    padding: 50px 0; }
+
+  .services-v3.better-set-pd {
+    padding-bottom: 20px; }
+
+  .services-v3 .box {
+    margin-bottom: 30px; }
+
+  .medical-professionals {
+    padding: 50px 0; }
+
+  .medical-professionals .better-box-img-full {
+    margin-top: 30px; }
+
+  .blog .box-latest-blog li .box-title .meta li {
+    display: block; }
+
+  .blog .box-latest-blog {
+    padding-left: 0;
+    padding-top: 30px; }
+
+  .free-heckup .better-box-img-full {
+    margin-bottom: 30px; }
+
+  .free-heckup .box {
+    padding-left: 0; }
+
+  .services-v2 .box {
+    margin-bottom: 30px;
+    text-align: center; }
+    .services-v2 .box .box-icon {
+      margin: 0 auto 25px auto; }
+
+  .better-set-pd-large {
+    padding: 50px 0; }
+
+  .our-doctor .box-question .holder-question .has-title a {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+
+  .client-say .uk-slidenav-next {
+    right: -15px; }
+
+  .client-say .uk-slidenav-previous {
+    left: -15px; }
+
+  .client-say li .box p {
+    padding: 0 0 25px 0; }
+
+  .better-awards .box-content p {
+    padding: 0; }
+
+  .medical-departments .switcher-menu li:before {
+    display: none; }
+
+  .medical-departments .switcher-menu {
+    margin-right: 0;
+    margin-bottom: 30px; }
+
+  .about-the-best .content p {
+    padding-right: 0;
+    padding-bottom: 30px; }
+
+  .about-the-best .box-time {
+    margin-top: 30px; }
+
+  .services .box {
+    margin-bottom: 30px; }
+
+  .services.better-set-pd {
+    padding-bottom: 20px; }
+
+  .slider-v1 .banner-caption-button .better-button a,
+  .slider-v2 .banner-caption-button .better-button a,
+  .slider-v3 .banner-caption-button .better-button a,
+  .slider-v4 .box-text .better-button a {
+    font-size: 12px !important;
+    line-height: 31px !important; }
+
+  .footer .copyright {
+    margin-top: 0; }
+
+  .footer {
+    padding-top: 50px; } }
+@media (max-width: 479px) {
+  .coming-soon .content {
+    padding: 30px 15px; }
+
+  .coming-soon .content .count-down {
+    margin-bottom: 20px; }
+
+  .coming-soon .content > p {
+    padding-bottom: 15px; }
+
+  .coming-soon .content h1 {
+    font-size: 35px;
+    line-height: 35px; }
+    .coming-soon .content h1 span {
+      font-size: 40px;
+      line-height: 40px; }
+
+  .coming-soon .content a {
+    margin-bottom: 20px; }
+
+  .services-v3 .box {
+    text-align: center; }
+
+  .our-doctor-v2 .switcher-content .box .social {
+    justify-content: center; }
+
+  .our-doctor-v2 .switcher-content .box {
+    text-align: center; }
+
+  .our-doctor-v2 {
+    text-align: center; }
+
+  .page-not-found p {
+    font-size: 18px; }
+
+  .page-not-found h3 {
+    font-size: 25px;
+    padding-bottom: 10px; }
+
+  .page-not-found h1 {
+    font-size: 55px; }
+
+  .book-form .better-form {
+    padding: 50px 15px; }
+
+  .we-are-the-better .better-box-img-full {
+    margin-bottom: 50px; }
+
+  .we-are-the-better.better-set-pd-small {
+    padding-bottom: 0; }
+
+  .blog-detail .comments ul.uk-comment-list li .comment .comment-content > p {
+    margin-top: 0; }
+
+  .blog-detail .comments ul.uk-comment-list li .comment .comment-content {
+    margin-left: 0;
+    margin-top: 20px; }
+
+  .blog-detail .comments ul.uk-comment-list li .comment .comment-img {
+    float: none; }
+
+  .shop-detail .box-review .uk-switcher .poduct-reviews li .review .author {
+    display: block; }
+    .shop-detail .box-review .uk-switcher .poduct-reviews li .review .author h6 {
+      display: inline-block; }
+    .shop-detail .box-review .uk-switcher .poduct-reviews li .review .author p {
+      display: inline-block; }
+      .shop-detail .box-review .uk-switcher .poduct-reviews li .review .author p + i {
+        display: none; }
+
+  .shop-detail .box-review .uk-switcher {
+    padding: 25px 15px; }
+
+  .shop-detail .box-review .uk-subnav li a {
+    padding: 0 15px; }
+
+  .shop .rsp-width-1-2 > * {
+    width: 100%; }
+
+  .help-center .questions li:nth-last-child(2) {
+    margin-bottom: 42px; }
+
+  .client-say-v2 .box .box-clients .better-box-img-hv-shin {
+    width: 70px;
+    height: 70px; }
+
+  .client-say-v2 .box .box-clients {
+    height: 70px;
+    padding: 0px 20px 0 80px;
+    top: -35px;
+    left: 20px; }
+    .client-say-v2 .box .box-clients h3 {
+      font-size: 15px; }
+    .client-say-v2 .box .box-clients h6 {
+      font-size: 12px; }
+
+  .client-say-v2 .box {
+    padding: 70px 20px 45px 20px; }
+
+  .blog .box-latest-blog li .box-title {
+    margin-left: 0; }
+
+  .blog .box-latest-blog li .better-box-img-hv-shin {
+    float: none;
+    margin-bottom: 15px; }
+
+  .blog .box-sticky .box {
+    padding: 30px 15px; }
+
+  .better-form-gradeint h3 {
+    font-size: 22px; }
+
+  .better-form-gradeint form {
+    padding: 30px 15px; }
+
+  .footer .copyright p, .footer .copyright a {
+    float: none; }
+
+  .footer .copyright {
+    text-align: center; }
+
+  .footer .rsp-width-1-2 {
+    width: 100%; }
+
+  .book-an-appointment .box {
+    padding: 50px 15px; }
+
+  .medical-departments .switcher-menu li a {
+    padding-left: 20px;
+    font-size: 15px; }
+
+  .better-title img {
+    display: none; }
+
+  .about-the-best .box-time .time p {
+    float: none; }
+
+  .about-the-best .box-time .time h3 {
+    float: none; }
+
+  .about-the-best .box-time .time {
+    line-height: 35px; }
+
+  .about-the-best.better-set-pd {
+    padding-top: 50px; }
+
+  .slider-v1 .banner-caption-p,
+  .slider-v2 .banner-caption-p,
+  .slider-v3 .banner-caption-p {
+    display: none; }
+
+  .slider-v3 .banner-caption-h6,
+  .slider-v4 .box-text h6 {
+    font-size: 12px !important;
+    line-height: 20px !important; }
+
+  .slider-v3 .banner-caption-h1,
+  .slider-v4 .box-text h1 {
+    font-size: 20px !important; }
+
+  .slider-v1 .banner-caption-h1,
+  .slider-v2 .banner-caption-h1 {
+    font-size: 30px !important; }
+    .slider-v1 .banner-caption-h1 strong,
+    .slider-v2 .banner-caption-h1 strong {
+      font-size: 30px !important; } }
+@media (max-width: 320px) {
+  .better-blog .box-content h3 {
+    font-size: 20px; }
+
+  .better-form-gradeint .better-title h3 {
+    font-size: 18px;
+    line-height: 70px; }
+
+  .medical-departments .switcher-content .box h3,
+  .medical-departments-v2 .switcher-content .box h3,
+  .medical-departments-v3 .switcher-content .box h3,
+  .better-title-v3 h3,
+  .call-action .box-title h3,
+  .call-action-v2 .box-title h3,
+  .departments-detail .departments-detail-box > h3,
+  .blog-list-page .blog-box h3,
+  .blog-detail .blog-box h3,
+  .help-center .faq h3,
+  .we-are-the-better .box h3,
+  .we-are-the-better .box h5 {
+    font-size: 25px;
+    line-height: 30px; }
+
+  .better-title h3, .better-title-v2 h3 {
+    font-size: 25px;
+    line-height: 30px; }
+  .better-title p, .better-title-v2 p {
+    font-size: 16px; }
+
+  .contact .contact-map .box-office li p, .contact-v2 .contact-map .box-office li p {
+    font-size: 14px; }
+
+  .shop-detail .box-review .uk-subnav li a {
+    font-size: 14px; }
+
+  .chief-better-medical-v2 .box-profile .info {
+    padding: 30px 15px; }
+
+  .slider-v4 .box-text {
+    background: transparent; }
+
+  .header-v2 .header .main-menu .logo-mobi a img,
+  .header-v3 .header .main-menu .logo-mobi a img,
+  .header-v5 .header .main-menu .logo-mobi a img {
+    width: 80%;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0); }
+
+  .slider-v1 .banner-caption-h1,
+  .slider-v2 .banner-caption-h1 {
+    font-size: 20px !important; }
+    .slider-v1 .banner-caption-h1 strong,
+    .slider-v2 .banner-caption-h1 strong {
+      font-size: 20px !important; } }
+@media (min-width: 1220px) {
+  .uk-grid {
+    margin-left: -30px; }
+
+  .uk-grid > * {
+    padding-left: 30px; } }
+@media (min-width: 992px) {
+  .header-v2 .header .main-menu .logo-mobi,
+  .header-v3 .header .main-menu .logo-mobi,
+  .header-v5 .header .main-menu .logo-mobi {
+    display: none; }
+
+  .slider-v1 .services {
+    display: block; }
+
+  .services {
+    display: none; }
+
+  .header-v4 .header .logo {
+    height: 90px; }
+
+  .header-v1 .header .logo {
+    height: 120px; }
+
+  .header-v1 .header .main-menu .primary-menu,
+  .header-v2 .header .main-menu .primary-menu,
+  .header-v3 .header .main-menu .primary-menu,
+  .header-v4 .header .main-menu .primary-menu,
+  .header-v5 .header .main-menu .primary-menu {
+    display: flex; }
+
+  .mobile-menu {
+    display: none !important; }
+
+  .bars-mobile {
+    display: none; } }
+@media (min-width: 992px) and (max-width: 1219px) {
+  .better-sidebar .sidebar-box {
+    padding: 30px 15px; }
+
+  .medical-departments-v2 .switcher-menu li a,
+  .medical-departments-v3 .switcher-menu li a {
+    width: 105px;
+    height: 105px;
+    font-size: 12px; }
+
+  .footer .box .box-content p,
+  .footer .box .box-content a {
+    font-size: 12px; }
+
+  .our-doctor .box-question .holder-question .has-title a {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .blog .box-latest-blog li .box-title .meta li p, .blog .box-latest-blog li .box-title .meta li a {
+    margin-right: 20px; }
+
+  .medical-departments .switcher-menu li a,
+  .medical-departments-v2 .switcher-menu li a,
+  .medical-departments-v3 .switcher-menu li a {
+    padding-left: 20px;
+    font-size: 15px; }
+
+  .about-the-best .box-time .time p {
+    float: none; }
+
+  .about-the-best .box-time .time h3 {
+    float: none; }
+
+  .about-the-best .box-time .time {
+    line-height: 35px; } }
+
+/*# sourceMappingURL=responsive.css.map */
